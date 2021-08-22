@@ -129,9 +129,9 @@ const FooterContainer = () => {
   return (
     <div className="wrap" css={styles}>
         <div className="footerCard">
-            <h2>xPicas</h2>
-            <p>5th flora, 700/D kings road, green lane New York-1782</p>
-            <a href="#/">+10 367 826 2567</a>
+            <h2>K-Digital</h2>
+            <p>5th, Kerr Street Johannesburg-1782</p>
+            <a href="#/">+273 826 2567</a>
             <a href="#/">contact@xPicas.com</a>
             <div className="footerSocials">
             <i className="fab fa-facebook-f"></i>
